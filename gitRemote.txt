@@ -10,3 +10,5 @@
 dummy changes
 more changes
 New change
+
+Added new change 2
